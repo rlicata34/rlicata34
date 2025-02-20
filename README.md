@@ -12,7 +12,7 @@ I have a **biology degree from Binghamton University**, where I honed my **analy
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ###  Featured Projects  
-- **[PureVibes](https://github.com/rlicata34/purevibes)**   
+- **[PureVibes](https://github.com/rlicata34/se_project_purevibes_frontend/tree/stage-1-frontend-api)**   
   *An event discovery platform that lets users find and save events via an easy search query that interacts with the Ticketmaster API.*  
   - Built with **React, Node.js, Express, and the Ticketmaster API**  
   - Implements **state management and API integration** for a smooth user experience  
